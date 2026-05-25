@@ -1,0 +1,119 @@
+aid: sinai-tech
+name: SINAI Technologies
+description: >-
+  SINAI Technologies is a San Francisco–headquartered enterprise SaaS company
+  providing a Decarbonization Intelligence platform for carbon management,
+  sustainability planning, and ESG compliance. The platform unifies
+  organization-wide emissions accounting, climate transition planning, climate
+  financial planning, and execution management so industrial enterprises can
+  measure, report, and reduce Scope 1, 2, and 3 emissions using
+  science-based methodologies. Core modules include Carbon Accounting &
+  Reporting, the Climate Transition Planner (with marginal abatement cost
+  curves and scenario modeling), the Climate Financial Planner, and Execution
+  & Management for tracking decarbonization projects. SINAI's Decarbonization
+  Intelligence Portal layers Tableau-based dashboards, AI-powered bulk data
+  ingestion, and AI Emissions Match (which maps unstructured emissions data
+  to emission factors) on top of the underlying carbon ledger. The platform
+  is designed around major reporting frameworks including CDP, TCFD, SEC
+  climate disclosure, CSRD, CBAM, California SB 253 / SB 261, Brazil SBCE,
+  and Brazil CVM resolutions 217 and 218, and is SOC 2 compliant with
+  TÜV SÜD ISO 14064 verification. Customers include Siemens Energy,
+  ArcelorMittal, Harley-Davidson, Emirates, Natura &Co, Minerva Foods,
+  Wilson Sons, BRK Ambiental, and Japan's largest bank MUFG. SINAI states
+  publicly that it can connect to enterprise customer systems through APIs
+  to automate roughly 70% of emissions data ingestion, but it does not
+  publish a developer portal, OpenAPI specification, SDKs, public API
+  reference, or a GitHub organization — its API surface is delivered as a
+  private integration capability negotiated with enterprise customers
+  rather than a self-serve developer product.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Decarbonization
+  - Carbon Management
+  - Carbon Accounting
+  - Sustainability
+  - ESG
+  - Climate
+  - Greenhouse Gas Emissions
+  - Scope 1 2 3 Emissions
+  - Net Zero
+  - CBAM
+  - CSRD
+  - TCFD
+  - CDP
+  - SEC Climate Disclosure
+  - California SB 253
+  - Brazil SBCE
+  - MACC Curves
+  - Scenario Planning
+  - Climate Financial Planning
+  - Tableau
+  - Enterprise SaaS
+url: https://raw.githubusercontent.com/api-evangelist/sinai-tech/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.sinai.com
+  - type: Application
+    url: https://app.sinai.com
+  - type: Platform
+    url: https://www.sinai.com/platform
+  - type: CarbonAccounting
+    url: https://www.sinai.com/platform/carbon-accounting-reporting
+  - type: TransitionPlanner
+    url: https://www.sinai.com/platform/transition-planner
+  - type: FinancialPlanner
+    url: https://www.sinai.com/platform/financial-planner
+  - type: ExecutionManagement
+    url: https://www.sinai.com/platform/execution-management
+  - type: Baselines
+    url: https://www.sinai.com/platform/baselines
+  - type: DecarbonizationIntelligencePortal
+    url: https://www.sinai.com/landing-page-decarbonization-intelligence-portal
+  - type: Solutions
+    url: https://www.sinai.com/solutions
+  - type: Industries
+    url: https://www.sinai.com/industries
+  - type: CBAM
+    url: https://www.sinai.com/solutions/cbam
+  - type: CSRD
+    url: https://www.sinai.com/solutions/csrd
+  - type: CASB253
+    url: https://www.sinai.com/solutions/california-sb-253-and-sb-261
+  - type: BrazilSBCE
+    url: https://www.sinai.com/solutions/brazil-sbce
+  - type: BrazilCVM217218
+    url: https://www.sinai.com/solutions/brazil-cvm-217-218
+  - type: SupplyChainEngagement
+    url: https://www.sinai.com/solutions/supply-chain-engagement
+  - type: ClimateAdvisory
+    url: https://www.sinai.com/solutions/climate-advisory-services
+  - type: Customers
+    url: https://www.sinai.com/customers
+  - type: Resources
+    url: https://www.sinai.com/resources
+  - type: Blog
+    url: https://www.sinai.com/blog
+  - type: Newsroom
+    url: https://www.sinai.com/newsroom
+  - type: About
+    url: https://www.sinai.com/about
+  - type: Contact
+    url: https://www.sinai.com/contact
+  - type: Careers
+    url: https://sinai.breezy.hr
+  - type: Twitter
+    url: https://twitter.com/SINAICarbonTech
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sinai-technologies-inc/
+  - type: Vimeo
+    url: https://vimeo.com/sinaitechnologies
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
