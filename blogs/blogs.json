@@ -2,19 +2,14 @@
   "repo": "sinai-tech",
   "feeds": [
     {
-      "source": "https://www.sinai.com/blog",
-      "feed_url": "",
-      "saved": 0,
-      "method": "agent-scrape"
-    },
-    {
       "source": "https://www.sinai.com/resources",
-      "feed_url": "",
+      "feed_url": "https://www.sinai.com/resources",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
   "post_count": 2,
-  "fetched": "2026-06-27T13:09:48Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
